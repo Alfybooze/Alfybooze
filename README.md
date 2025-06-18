@@ -1,4 +1,4 @@
-#👋 Hi, I’m Alfred Nwachukwu Ibe
+##👋 Hi, I’m Alfred Nwachukwu Ibe
 
 ## About Me 
 I'm a Fullstack Web Developer and AI Engineer driven by a pursuit of innovative excellence. My web development expertise lies primarily in Java Spring Boot, where I build robust and scalable applications. On the AI front, I've worked extensively with various libraries, including OpenCV, TensorFlow, and PyTorch, tackling diverse real-world problems.
@@ -13,10 +13,10 @@ On my AI journey🤖, I'm learning to work with MCP (Model Context Protocol), fo
 ## My Skiillset 
 | Languages | Front end | back end| AI |
 | -------- | -------- | -------- |---------|
-| python | Streamlit | flask ||Tensorflow, pytorch |
-| Java | thymeleaf | Spring boot|| open-cv |
-| Html and CSS | Bootstrap,tailwind | nil || nil |
-| Javascript | ReactJS, Vanilla Js | node Js || nil |
+| python | Streamlit | flask |Tensorflow, pytorch|
+| Java | thymeleaf | Spring boot| open-cv |
+| Html and CSS | Bootstrap,tailwind | nil |nil |
+| Javascript | ReactJS, Vanilla Js | node Js | nil |
 ### mecilenous skills
 -Data-base- mongodb and postgresql
 -cloud- AWS, Azure etc
